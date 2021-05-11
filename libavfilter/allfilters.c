@@ -267,7 +267,7 @@ extern const AVFilter ff_vf_freezeframes;
 extern const AVFilter ff_vf_frei0r;
 extern const AVFilter ff_vf_fspp;
 extern const AVFilter ff_vf_gblur;
-extern const AVFilter ff_vf_genericfilter;
+extern const AVFilter ff_vf_genericshader;
 extern const AVFilter ff_vf_geq;
 extern const AVFilter ff_vf_gradfun;
 extern const AVFilter ff_vf_graphmonitor;
